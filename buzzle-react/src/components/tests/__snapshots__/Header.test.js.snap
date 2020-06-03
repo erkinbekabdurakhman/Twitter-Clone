@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly and equal to snapshot 1`] = `
+<header>
+  <nav
+    className="navbar navbar-dark bg-primary"
+  >
+    <a
+      className="navbar-brand"
+      href="/"
+      onClick={[Function]}
+    >
+      <h1>
+        Buzzle
+      </h1>
+    </a>
+  </nav>
+</header>
+`;
