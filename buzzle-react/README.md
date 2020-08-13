@@ -45,7 +45,3 @@ npm run build
 ```
 
 All the generated files will be placed into the `build` directory.
-
-## Credits
-
-Buzzle was created by Dmitrii Toskaitov <dmitrii@toksaitov.com>
