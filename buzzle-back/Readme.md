@@ -75,7 +75,3 @@ npm start
    Ensure to run `npm install` locally before starting the development containers.
    Ensure that the installed modules are compatible with the current Docker
    platform.
-
-## Credits
-
-Buzzle was created by Dmitrii Toskaitov <dmitrii@toksaitov.com>
